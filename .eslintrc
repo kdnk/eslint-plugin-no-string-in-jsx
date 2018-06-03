@@ -1,0 +1,12 @@
+{
+  "extends": "eslint",
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "rules": {
+    "no-string-in-jsx": 1
+  }
+}
