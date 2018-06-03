@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-no-string-in-jsx",
+  "version": "0.0.1",
+  "description": "No string in jsx tag for i18n.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdnk/eslint-plugin-no-string-in-jsx.git"
+  },
+  "author": "Kodai Nakamura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdnk/eslint-plugin-no-string-in-jsx/issues"
+  },
+  "homepage": "https://github.com/kdnk/eslint-plugin-no-string-in-jsx#readme"
+}
